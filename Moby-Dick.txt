@@ -1,0 +1,144 @@
+
+Informe duas aplicações de arquivos txt em sistemas para internet utilizados hoje em dia?
+Data de entrega: 21:19
+Material
+Trabalhando com arquivos
+Item postado: 19:13
+Aula 12 - Projeto com Flask
+Aula 12 - Projeto com Flask
+Material
+Introdução ao Flask (continuação)
+Última edição: 30 de out.
+Atividade
+Formulário de formação das equipes
+Data de entrega: 23 de out.
+Material
+Orientações do Projeto da Disciplina
+Item postado: 30 de out.
+Aula 11 - Subprogramas e Flask
+Aula 11 - Subprogramas e Flask
+Atividade
+INOVA UNIESP | Poste sua foto do Inova com o professor!
+Data de entrega: 29 de out.
+Pergunta
+[PRESENÇA DO DIA] Em um aplicativo Flask, qual função é usada para definir uma rota (route) que mapeia uma URL para uma função específica?
+Data de entrega: 23 de out., 21:35
+Material
+Introdução ao Flask
+Última edição: 22 de out.
+Material
+Subprogramas (Funções e Procedimentos)
+Item postado: 22 de out.
+Aula 10 - Lista de Exercícios
+Aula 10 - Lista de Exercícios
+Concluída Atividade
+03) Exercícios
+Data de entrega: 16 de out., 21:45
+Concluída Atividade
+01) Qual é o seu Github?
+Data de entrega: 16 de out., 21:30
+Pergunta
+02) Exercício
+Data de entrega: 16 de out., 21:45
+Aula 09 - Vetores e Matrizes; Estruturas em Python
+Aula 09 - Vetores e Matrizes; Estruturas em Python
+Concluída Pergunta
+Atividade de presença (AGORA) Qual a cor da camisa do professor?
+Data de entrega: 9 de out., 19:16
+Concluída Atividade
+TED 09
+Data de entrega: 15 de out.
+Concluída Atividade
+Atividade para presença
+Data de entrega: 9 de out., 21:30
+Atividade
+Lista de exercícios 09
+Sem data de entrega
+Material
+Apresentação, links e vídeos
+Item postado: 9 de out.
+Aula 08 - Avaliação - Unidade 1
+Aula 08 - Avaliação - Unidade 1
+Material
+Gabarito
+Item postado: 9 de out.
+Aula 07 - Resolução de exercícios
+Aula 07 - Resolução de exercícios
+Concluída Atividade
+Questão: Pesquisa de Satisfação
+Data de entrega: 25 de set.
+Concluída Atividade
+Questão Sorteio
+Data de entrega: 25 de set.
+Concluída Atividade
+Lista 04 | Questão 07
+Data de entrega: 25 de set.
+Concluída Atividade
+Lista 04 | Questão 08
+Data de entrega: 25 de set.
+Aula 06 - TDD para introdução à programação
+Aula 06 - TDD para introdução à programação
+Concluída Atividade
+Atividade/Presença - Exemplo
+Data de entrega: 25 de set.
+Aula 05 - Estrutura de Repetição
+Aula 05 - Estrutura de Repetição
+Concluída Atividade
+TED 05
+Data de entrega: 17 de set.
+Atividade
+Lista de exercício 05
+Sem data de entrega
+Material
+Material Extra - Introdução à testes
+Última edição: 10 de set.
+Material
+Apresentações, links e vídeos 05
+Item postado: 10 de set.
+Aula 04 - Estrutura de Seleção
+Aula 04 - Estrutura de Seleção
+Concluída Atividade
+TED 04
+Data de entrega: 17 de set.
+Atividade
+Lista de exercícios 04
+Sem data de entrega
+Material
+Github da disciplina (exemplos dos códigos)
+Última edição: 11 de set.
+Material
+Apresentações, links e vídeos 04
+Item postado: 10 de set.
+Aula 03 - Tipos de dados, variáveis, constantes, operadores
+Aula 03 - Tipos de dados, variáveis, constantes, operadores
+Concluída Atividade
+TED 03
+Data de entrega: 17 de set.
+Concluída Atividade
+Lista de exercícios 03
+Sem data de entrega
+Material
+Apresentação, links e vídeos 03
+Item postado: 10 de set.
+Aula 02 - Algoritmos, Fluxograma e Python
+Aula 02 - Algoritmos, Fluxograma e Python
+Concluída Atividade
+TED 01 e 02
+Data de entrega: 17 de set.
+Atividade
+Lista de exercícios 02
+Sem data de entrega
+Material
+Apresentação, links e vídeos 02
+Última edição: 10 de set.
+Aula 01 - Apresentação da Disciplina
+Aula 01 - Apresentação da Disciplina
+Material
+Plano de Ensino e Cronograma
+Item postado: 17 de set.
+Concluída Atividade
+Crie sua conta no Beecrowd
+Data de entrega: 17 de set.
+Material
+Apresentação, links e vídeos 01
+Última edição: 10 de set.
